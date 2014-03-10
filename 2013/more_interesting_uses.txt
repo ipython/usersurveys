@@ -1,0 +1,27 @@
+#79: Working for a Mexican bank
+#87: Calibrating a lithography tool
+#93: Quantum computing
+#96: Music synthesis
+#153 Medical imaging
+#162 computer vision
+#165 sea wave data
+#179 water companies
+#185 weather forecasting and risk analysis
+#195 fermilab collider
+#201 language phylogenies
+#246 ecosystem models & earth observation
+#261 e-Democracy
+#296 GIS
+#302 robotics & computer vision
+#317 viewer data @ Time Warner
+#322 remote sensing & Google Earth Engine API
+#354 analysis of home energy consumption
+#367 non volatile memory
+#371 palaeoclimate models
+#375 developing instrument control software
+#419 supercomputer interface
+#423 open source application to analyse veterinary pressure measurements
+#439 IMF
+#442 malware analysis
+#445 gamma ray source catalog
+#454 gamma ray telescope
